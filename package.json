@@ -4,7 +4,7 @@
   "description": "厌倦了相同的旧信息？ 自己做",
   "scripts": {
     "start": "clear && react-scripts start",
-    "build": "clear && react-scripts build",
+    "build": "clear && react-scripts build"
   },
   "author": {
     "name": "weizang75",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/weizang-75/ironavirus"
+    "url": "https://github.com/listingslab-software/ironavirus"
   },
   "license": "MIT",
   "dependencies": {
