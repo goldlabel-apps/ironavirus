@@ -1,12 +1,12 @@
-# Ironavirus
 
-Drop in GitHub Package for React
+# Ironavirus 
 
 > 厌倦了相同的旧信息？ 自己做
 
-### Made by
+Drop in GitHub Package for React
 
-- https://wei-zang.com
+### Made by Wei Zang
+
 - weizang75@gmail.com
 
-![Wei Zang](https://wei-zang.com/wp-content/uploads/2019/01/cropped-weizang-425-5.png "Who is Wei Zang?")
+![Wei Zang](https://listingslab.com/wp-content/uploads/2021/01/wei-zang.jpeg "Who is Wei Zang?")
